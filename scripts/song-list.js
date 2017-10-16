@@ -11,7 +11,7 @@ $( document ).ready(function() {
           </button>
         </td>
         <td>${song.title}</td>
-        <td>${song.duration}</td>
+        <td>${player.prettyTime(song.duration)}</td>
       </tr>
     `);
 
