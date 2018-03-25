@@ -2,11 +2,11 @@
 
 ### Bloc Jams music playing app. Project framework forked from Bloc.io starter project. Functionality implemented with JQuery.
 
-![Landing](app/assets/images/landing.png)
+![Landing](assets/images/landing.png)
 
-![Collection View](app/assets/images/collection.png)
+![Collection View](assets/images/collection.png)
 
-![Album View](app/assets/images/album.png)
+![Album View](/assets/images/album.png)
 
 
 
